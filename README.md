@@ -172,8 +172,7 @@ Não há dependência de backend, APIs externas para roteirização nem serviço
 ```text
 simulador-roteirizacao-logistica/
 ├── README.md
-├── simulador_rotas_logisticas.html
-└── index.html                     # opcional: cópia para GitHub Pages
+└── index.html                    
 ```
 
 ## ⚠️ Limitações e premissas
